@@ -1,6 +1,6 @@
-# Proposal Template (Replace with Project name)
+## Mementos, a life's memories in one place
 
-## History & Intro (Include Brand Positioning)
+### History & Intro (Include Brand Positioning)
 
 ## Project Issues and Goals
 
